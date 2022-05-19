@@ -10,7 +10,7 @@ Open index.html in the browser to view.
 ## Roadmap of Future Improvements
 Future improvement plans include adding a moving mouth that changes expressions depending on where the eyes are looking.
 
-## License Information MIT License
+## License Information
 
 MIT License
 
