@@ -1,16 +1,16 @@
-Project Title
+## Project Title
 Eye Movement
 
-Project Description
+## Project Description
 Welcome to a set of moving eyes! Move both eyes with your mouse cursor. Make them look up, down, side-to-side, or in between.
 
-How To Run
+## How To Run
 Open index.html in the browser to view.
 
-Roadmap of Future Improvements
+## Roadmap of Future Improvements
 Future improvement plans include adding a moving mouth that changes expressions depending on where the eyes are looking.
 
-#License Information MIT License
+## License Information MIT License
 
 MIT License
 
